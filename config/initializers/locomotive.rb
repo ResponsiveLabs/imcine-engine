@@ -74,7 +74,7 @@ Locomotive.configure do |config|
   config.hosting = {
     :target     => :heroku,
     :api_key    => ENV['HEROKU_API_KEY'],
-    :app_name   => ENV['HEROKU_APP_NAME']
+    :app_name   => 'imcine-staging'
   }
   
 end
