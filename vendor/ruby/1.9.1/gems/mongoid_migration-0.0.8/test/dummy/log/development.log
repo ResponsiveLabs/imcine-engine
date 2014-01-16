@@ -1,0 +1,233 @@
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({:create=>"mongoid_migration_migrations"}).limit(-1)
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({:create=>"products"}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"yo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"yo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+Migrating to Foo (20111116172729)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+Migrating to Foo (20111116172729)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Foo (20111116172729)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"foo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"yo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+Migrating to Foo (20111116172729)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Foo (20111116172729)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"foo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Yo (20111114234935)
+Migrating to Foo (20111116172729)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+Migrating to Foo (20111116172729)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"foo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"products", "query"=>{:name=>"yo"}, "fields"=>nil}).limit(-1)
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111114234935"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['$cmd'].find({"count"=>"mongoid_migration_migrations", "query"=>{:version=>"20111116172729"}, "fields"=>nil}).limit(-1)
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB dummy_development['system.namespaces'].find({})
+MONGODB dummy_development['mongoid_migration_migrations'].find({})
+MongoDB logging. Please note that logging negatively impacts performance and should be disabled for high-performance production apps.
+MONGODB admin['$cmd'].find({:ismaster=>1}).limit(-1)

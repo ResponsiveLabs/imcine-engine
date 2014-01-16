@@ -1,0 +1,21 @@
+en:
+  custom_fields:
+    type:
+      string: Simple Input
+      text: Text
+      select: Select
+      boolean: Checkbox
+      date: Date
+      file: File
+      integer: Integer
+      float: Float
+      money: Money
+      email: E-mail
+      tags: Tags
+      belongs_to: Belongs to
+      has_many: Has many
+      many_to_many: Many To Many
+
+  errors:
+    messages:
+      at_least_one_element: "must have at least one element"

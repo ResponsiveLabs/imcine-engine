@@ -1,0 +1,15 @@
+de:
+  custom_fields:
+    type:
+      string: Einfacher Text
+      text: Formatierter Text
+      select: Auswahl-Liste
+      boolean: Auswahl-Box
+      integer: Ganzzahl
+      float: Fließkommazahl
+      money: Währung
+      date: Datum
+      file: Datei
+      belongs_to: gehört zu
+      has_many: Hat viele
+      many_to_many: Hat und gehört zu vielen
