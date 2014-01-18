@@ -11,8 +11,8 @@ gem 'nokogiri'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-
-gem 'locomotive_cms', '~> 2.4.1', :require => 'locomotive/engine'
+gem 'locomotive_cms', git: "https://github.com/ResponsiveLabs/engine.git", branch: "imcine"
+#gem 'locomotive_cms', '~> 2.4.1', :require => 'locomotive/engine'
 gem 'locomotive-heroku', '~> 0.1.0', :require => 'locomotive/heroku'
 gem 'thin', :group => 'production'
 
