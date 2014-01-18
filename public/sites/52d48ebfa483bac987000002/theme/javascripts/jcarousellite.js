@@ -202,6 +202,8 @@
 
 
 
+
+
 (function($) {                                          // Compliant with jquery.noConflict()
 $.fn.jCarouselLite = function(o) {
     o = $.extend({
